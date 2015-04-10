@@ -1,0 +1,8 @@
+CREATE TABLE notification(
+
+noti VARCHAR(200) NOT NULL,
+ip VARCHAR(20)    NOT NULL,
+time DATETIME
+
+
+)
